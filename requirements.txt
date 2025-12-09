@@ -1,0 +1,12 @@
+
+pandas
+numpy
+scikit-learn
+imblearn
+matplotlib
+seaborn
+ydata-profiling
+tensorflow
+scikeras
+joblib
+streamlit
